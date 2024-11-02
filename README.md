@@ -1,20 +1,20 @@
 # Images de mes mes réalisations
 
-![pub-1](images/image-1.jpeg)
+![pub-1](image-1.jpeg)
 
 ## -----------
 
-![pub-2](images/image-2.jpeg)
+![pub-2](image-2.jpeg)
 
 ## ------------
-![pub-3](images/image-3.jpeg)
+![pub-3](image-3.jpeg)
 
 ## -----------
 
-![pub-4](images/image-4.jpeg)
+![pub-4](image-4.jpeg)
 
 ## -----------
 
-![pub-5](images/image-5.jpeg)
+![pub-5](image-5.jpeg)
 
 ## -----------
